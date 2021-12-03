@@ -7,7 +7,7 @@ const userRoute=require('./routes/user.route')
 const authMiddleware= require('./middlewares/auth.middlewares')
 const cookieParser = require('cookie-parser')
 app.use(cookieParser('wwww4343feeft')) 
-
+//NGU
 const port = 3000
 app.set('view engine', 'pug')
 app.set('views', './views')

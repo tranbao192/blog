@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Trần Đức Bảo",
+      "id": "ztgGWDCZr",
+      "email": "tranducbao@gmail.com",
+      "password": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+      "name": "ngu",
+      "phone": "0849510555",
+      "id": "vjkdipd7m"
+    },
+    {
+      "name": "hhhhhhh",
+      "phone": "0849510555",
+      "id": "2oKG-o82J"
+    },
+    {
+      "name": "Hoang Quang 11",
+      "phone": "12345",
+      "id": "qMs_9OKwP"
+    },
+    {
+      "name": "ngu g",
+      "phone": "11",
+      "id": "qBjEwT83N"
+    },
+    {
+      "name": "Trần Đức Bảo1111",
+      "phone": "33",
+      "id": "8ktw7Gi2L",
+      "avatar": ""
+    },
+    {
+      "name": "g",
+      "phone": "ww",
+      "id": "j3_yXYOb2",
+      "avatar": "uploads\\4323f96f60949e6b83feb8c4fe0add5c"
+    }
+  ]
+}
